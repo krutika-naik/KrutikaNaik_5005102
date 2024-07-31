@@ -1,0 +1,1 @@
+This repository consists of all the programs that has real life implementation of java programming. It contains a file nammed "Exercise1" which is a word file that contains all the details about my work . 
